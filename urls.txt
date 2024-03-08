@@ -29,6 +29,13 @@ http://cdn.jsdelivr.net/gh//JosephGKDean/api-jgkd-cdn/img/thanosDave.png
 http://cdn.jsdelivr.net/gh//JosephGKDean/api-jgkd-cdn/img/themehotel.png
 http://cdn.jsdelivr.net/gh//JosephGKDean/api-jgkd-cdn/img/yesmitchell.png
 
+http://cdn.jsdelivr.net/gh//JosephGKDean/api-jgkd-cdn/img/animaltesting.png
+http://cdn.jsdelivr.net/gh//JosephGKDean/api-jgkd-cdn/img/blm.png
+http://cdn.jsdelivr.net/gh//JosephGKDean/api-jgkd-cdn/img/gzone.png
+http://cdn.jsdelivr.net/gh//JosephGKDean/api-jgkd-cdn/img/SuddanAd1.png
+http://cdn.jsdelivr.net/gh//JosephGKDean/api-jgkd-cdn/img/SuddanAd2.png
+http://cdn.jsdelivr.net/gh//JosephGKDean/api-jgkd-cdn/img/thumb.png
+
 SHORTERN:
 https://cdn.jgkd.dev/Favicon
 
@@ -58,3 +65,10 @@ https://cdn.jgkd.dev/MyHeart
 https://cdn.jgkd.dev/ISeeMitchell
 https://cdn.jgkd.dev/CrimalDave
 https://cdn.jgkd.dev/ApprovedDave
+
+https://cdn.jgkd.dev/AnimalTesting
+https://cdn.jgkd.dev/BLM
+https://cdn.jgkd.dev/gzone
+https://cdn.jgkd.dev/SuddanAd1
+https://cdn.jgkd.dev/SuddanAd2
+https://cdn.jgkd.dev/thumb
