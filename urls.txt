@@ -36,6 +36,8 @@ http://cdn.jsdelivr.net/gh//JosephGKDean/api-jgkd-cdn/img/SuddanAd1.png
 http://cdn.jsdelivr.net/gh//JosephGKDean/api-jgkd-cdn/img/SuddanAd2.png
 http://cdn.jsdelivr.net/gh//JosephGKDean/api-jgkd-cdn/img/thumb.png
 
+http://cdn.jsdelivr.net/gh//JosephGKDean/api-jgkd-cdn/img/stumble.png
+
 SHORTERN:
 https://cdn.jgkd.dev/Favicon
 
@@ -72,3 +74,5 @@ https://cdn.jgkd.dev/gzone
 https://cdn.jgkd.dev/SuddanAd1
 https://cdn.jgkd.dev/SuddanAd2
 https://cdn.jgkd.dev/thumb
+
+https://cdn.jgkd.dev/StumbleGuys
